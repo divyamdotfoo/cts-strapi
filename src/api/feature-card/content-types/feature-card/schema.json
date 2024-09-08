@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "feature_cards",
+  "info": {
+    "singularName": "feature-card",
+    "pluralName": "feature-cards",
+    "displayName": "Feature Card"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}
